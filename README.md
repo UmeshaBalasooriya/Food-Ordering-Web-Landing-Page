@@ -1,4 +1,4 @@
-# Project Name
+# food-ordering-web
 
 project name: food-ordering-web
 
